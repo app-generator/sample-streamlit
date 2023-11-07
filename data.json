@@ -1,0 +1,6 @@
+{
+    "pie_chart": {
+        "labels": ["Nike", "Adidas", "PUMA"],
+        "sizes": [50, 30, 20]
+    }
+}
