@@ -1,4 +1,4 @@
-# [Streamlit - Pie Chart Sample](https://github.com/app-generator/samples-streamlit)
+# [Streamlit - Pie Chart Sample](https://github.com/app-generator/sample-streamlit)
 
 Free Streamlit sample that loads the inputs from an external JSON and plot a PIE Chart. 
 
@@ -31,4 +31,4 @@ Visit the app in the browser `http://localhost:8501`
 <br />
 
 ---
-[Streamlit - Pie Chart Sample](https://github.com/app-generator/samples-streamlit) - Free starter provided by [AppSeed](https://appseed.us/)
+[Streamlit - Pie Chart Sample](https://github.com/app-generator/sample-streamlit) - Free starter provided by [AppSeed](https://appseed.us/)
